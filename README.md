@@ -1,3 +1,3 @@
 # Sean Pourgoutzidis
 
-![Screenshot](part1screenshot)
+![Screenshot](part1screenshot.png)
